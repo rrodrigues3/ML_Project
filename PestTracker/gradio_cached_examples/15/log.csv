@@ -1,0 +1,10 @@
+Output Image,Detection Info,flag,username,timestamp
+"{""path"": ""gradio_cached_examples/15/Output Image/1a72101193d59b4eb17b/image.webp"", ""url"": ""/file=/private/var/folders/4_/p1zcwx017w5f78hfdn_6thjh0000gn/T/gradio/bf84cd49d557e8fc685d683136e9ac20ab0217f8/image.webp"", ""size"": null, ""orig_name"": ""image.webp"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","Number of objects detected: 2
+Number of flies detected: 2
+Number of other objects detected: 0",,,2024-06-30 10:32:48.693913
+"{""path"": ""gradio_cached_examples/15/Output Image/5bfb1eb3c804a910515a/image.webp"", ""url"": ""/file=/private/var/folders/4_/p1zcwx017w5f78hfdn_6thjh0000gn/T/gradio/dfa0fc746bda9e8fedf39441232edf29909f417c/image.webp"", ""size"": null, ""orig_name"": ""image.webp"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","Number of objects detected: 2
+Number of flies detected: 2
+Number of other objects detected: 0",,,2024-06-30 10:32:48.929571
+"{""path"": ""gradio_cached_examples/15/Output Image/dedf7e871974b4ee1a2f/image.webp"", ""url"": ""/file=/private/var/folders/4_/p1zcwx017w5f78hfdn_6thjh0000gn/T/gradio/03866bec2784105dbbb42ba21ea4d5012c671d9d/image.webp"", ""size"": null, ""orig_name"": ""image.webp"", ""mime_type"": null, ""is_stream"": false, ""meta"": {""_type"": ""gradio.FileData""}}","Number of objects detected: 2
+Number of flies detected: 2
+Number of other objects detected: 0",,,2024-06-30 10:32:49.185761

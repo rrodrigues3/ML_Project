@@ -1,0 +1,13 @@
+
+path: /Users/rafael/Desktop/code/data  # dataset root dir
+train: images/train  # train images (relative to 'path')
+val: images/train  # val images (relative to 'path')
+
+# Classes
+names:
+  0: mosca
+
+
+
+# Caminho onde os pesos do modelo serão salvos
+weights_dir: /Users/rafael/Desktop/code/project/weights
